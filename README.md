@@ -1,0 +1,2 @@
+# mnist
+a small program
